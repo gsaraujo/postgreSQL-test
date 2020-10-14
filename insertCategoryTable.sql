@@ -1,6 +1,6 @@
 /**
 * Second script
-* Inserting data into the category tables
+* Inserting data into the category table
 * 
 **/
 
